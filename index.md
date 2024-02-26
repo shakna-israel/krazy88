@@ -1,3 +1,3 @@
-# Home
-
-*In Development*
+<script>
+window.location = "/home"
+</script>
